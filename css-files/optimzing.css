@@ -1,0 +1,826 @@
+/*MAX WITH 1460PX*/
+@media (max-width: 1460px) {
+    .icon-location-header {
+        margin-left: 950px;
+    }
+}
+
+/*MAX WITH 1440PX*/
+@media (max-width: 1440px) {
+    .icon-location-header {
+        margin-left: 900px;
+    }
+}
+
+/*MAX WITH 1400PX*/
+@media (max-width: 1400px) {
+    .icon-location-header {
+        margin-left: 860px;
+    }
+}
+
+/*MAX WITH 1360PX*/
+@media (max-width: 1360px) {
+    .icon-location-header {
+        margin-left: 820px;
+    }
+
+    .ad-content {
+        width: 1000px;
+        height: 300px;
+        margin-top: 50px;
+    }
+}
+
+/*MAX WITH 1315PX*/
+@media (max-width: 1315px) {
+    .icon-location-header {
+        margin-left: 800px;
+    }
+}
+
+/*MAX WITH 1300PX*/
+@media (max-width: 1300px) {
+    .main-text-index {
+        margin-left: 200px;
+    }
+    
+    #about-button {
+        margin-left: 130px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 60px;
+    } 
+
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 350px;
+        margin-left: 50px;
+    }
+      
+    .post-button {
+        width: 200px;
+        height: 50px;
+        margin-left: 70px;
+    }
+      
+    .post-button a {
+        font-size: 20px;
+    }
+      
+    .hero-text h1 {
+        font-size: 25px;
+    }
+
+    .container-one-contact h1, .container-two-contact h1 {
+        font-size: 30px;
+    }
+      
+    .container-one-contact h2 {
+        font-size: 25px;
+    }
+      
+    .container-one-contact p {
+        font-size: 20px;
+    }
+      
+    .send-evidence-button-contact {
+        width: 200px;
+        height: 50px;
+        margin-left: 150px;
+    }
+      
+    .send-evidence-button-contact a {
+        font-size: 20px;
+    }
+
+    .evidence-container-shit h1 {
+        font-size: 30px;
+      }
+      
+    .evidence-container-shit p {
+        font-size: 20px;
+    }
+      
+    .button-thing {
+        margin-top: 60px;
+    }
+
+    .icon-location-header {
+        margin-left: 750px;
+    }
+}
+
+/*MAX WITH 1260PX*/
+@media (max-width: 1260px) {
+    .icon-location-header {
+        margin-left: 700px;
+    }
+}
+
+/*MAX WITH 1200PX*/
+@media (max-width: 1200px) {
+    .main-text-index {
+        margin-left: 150px;
+    }
+    
+    #about-button {
+        margin-left: 120px;
+    }
+      
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 50px;
+    } 
+
+    .about-container h1 {
+        font-size: 30px;
+    }
+      
+    .about-container h2 {
+        font-size: 25px;
+    }
+      
+    .about-container p {
+        font-size: 20px;
+    }
+
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 300px;
+    }
+  
+    .post-button {
+        width: 150px;
+        margin-left: 70px;
+    }
+  
+    .hero-text h1 {
+        font-size: 20px;
+    }
+
+    .container-one-contact h1, .container-two-contact h1 {
+        font-size: 25px;
+    }
+      
+    .container-one-contact h2 {
+        font-size: 20px;
+        margin-top: 50px;
+    }
+      
+    .container-one-contact p {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    .evidence-container-shit p {
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .full-story-of-event h1 {
+        font-size: 30px;
+    }
+      
+    .full-story-of-event h2 {
+        font-size: 25px;
+    }
+      
+    .full-story-of-event p {
+        font-size: 20px;
+    }
+
+    .logo-location img {
+        width: 180px;
+        height: 80px;
+    }
+
+    .icon-location-header {
+        margin-left: 680px;
+    }
+}
+
+/*MAX WITH 1150PX*/
+@media (max-width: 1150px) {
+    .icon-location-header {
+        margin-left: 650px;
+    }
+
+    .ad-content {
+        width: 800px;
+        height: 350px;
+        margin-top: 50px;
+    }
+  
+    .ad-content h2 {
+        font-size: 30px;
+    }
+
+    #mail-link-footer {
+        margin-left: 250px;
+      }
+}
+
+/*MAX WITH 1120PX*/
+@media (max-width: 1120px) {
+    .main-text-index {
+        margin-left: 100px;
+    }
+    
+    #about-button {
+        margin-left: 150px;
+    }
+    
+    .index-button {
+        width: 150px;
+    }
+    
+    .index-button a {
+        font-size: 25px;
+    }
+
+    .send-evidence-button {
+        margin-left: 200px;
+      }
+      
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        margin-left: 30px;
+    }
+
+    .send-evidence-button-contact {
+        width: 150px;
+    }
+
+    .button-thing {
+        margin-left: 300px;
+    }
+
+    .icon-location-header {
+        margin-left: 620px;
+    }
+}
+
+/*MAX WITH 1080PX*/
+@media (max-width: 1080px) {
+    .icon-location-header {
+        margin-left: 590px;
+    }
+}
+
+/*MAX WITH 1050PX*/
+@media (max-width: 1050px) {
+    .main-text-index p {
+        font-size: 30px;
+    }
+    
+    .main-text-index {
+        width: 800px;
+    }
+    
+    #about-button {
+        margin-left: 120px;
+    }
+
+    .about-container h1 {
+        font-size: 25px;
+    }
+      
+    .about-container h2 {
+        font-size: 20px;
+    }
+      
+    .about-container p {
+        font-size: 18px;
+    }
+
+    .all-post-page-title-shit h1 {
+        font-size: 25px;
+    }
+      
+    .all-post-page-title-shit p {
+        font-size: 20px;
+    }
+      
+    .send-evidence-button {
+        margin-left: 190px;
+    }
+
+    .send-evidence-button-contact {
+        margin-left: 120px;
+    }
+
+    .evidence-container-shit h1 {
+        font-size: 25px;
+    }
+    
+    .evidence-container-shit p {
+        font-size: 17px;
+    }
+      
+    .button-thing {
+        margin-left: 270px;
+    }
+
+    .icon-location-header {
+        margin-left: 550px;
+    }
+}
+
+/*MAX WITH 1010PX*/
+@media (max-width: 1010px) {
+    .icon-location-header {
+        margin-left: 535px;
+    }
+}
+
+/*MAX WITH 1000PX*/
+@media (max-width: 1000px) {
+    .flex-container {
+      flex-direction: column;
+    }
+    
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 500px;
+        height: 250px;
+        margin-left: 250px;
+    }
+    
+    .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        margin-top: 50px;
+    }
+    
+    .post-button {
+        margin-left: 170px;
+    }
+    
+    .hero-text h1 {
+        font-size: 25px;
+    }
+
+    .send-evidence-button {
+        width: 250px;
+    }
+
+    .button-thing {
+        margin-left: 250px;
+    }
+
+    .full-story-of-event h1 {
+        font-size: 25px;
+    }
+      
+    .full-story-of-event h2 {
+        font-size: 20px;
+    }
+      
+    .full-story-of-event p {
+        font-size: 15px;
+    }
+
+    .icon-location-header {
+        margin-left: 500px;
+    }
+
+    .all-posts-icon img {
+        width: 30px;
+        height: 30px;
+      }
+      
+      .about-icon img {
+        width: 45px;
+        height: 45px;
+        margin-top: -8px;
+      }
+      
+      .contact-icon img {
+        width: 40px;
+        height: 40px;
+        margin-top: -8px;
+      }
+      
+      .evidence-icon img {
+        width: 40px;
+        height: 35px;
+        margin-top: -5px;
+      }
+}
+
+/*MAX WITH 950PX*/
+@media (max-width: 950px) {
+    .main-text-index {
+        width: 700px;
+    }
+    
+   .index-button {
+        width: 130px;
+    }
+    
+    .index-button a {
+        font-size: 20px;
+    }
+
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        margin-left: 200px;
+    }
+
+    .container-one-contact h1, .container-two-contact h1 {
+        font-size: 20px;
+    }
+      
+    .container-one-contact h2 {
+        font-size: 18px;
+        margin-top: 50px;
+    }
+      
+    .container-one-contact p {
+        font-size: 15px;
+        margin-top: 20px;
+    }
+  
+    .send-evidence-button-contact a {
+        font-size: 15px;
+    }
+  
+    .send-evidence-button-contact {
+        width: 100px;
+        margin-left: 130px;
+    }
+
+    .button-thing {
+        width: 200px;
+        height: 40px;
+    }
+    
+    .button-thing a {
+        font-size: 25px;
+    }
+
+    .icon-location-header {
+        margin-left: 450px;
+    }
+
+    .ad-content {
+        width: 650px;
+        height: 250px;
+    }
+  
+    .ad-content h2 {
+        font-size: 30px;
+    }
+  
+    .ad-content p {
+        font-size: 20px;
+    }
+}
+
+/*MAX WITH 900PX*/
+@media (max-width: 900px) {
+    .send-evidence-button {
+        margin-left: 200px;
+        width: 180px;
+        height: 40px;
+    }
+    
+    .send-evidence-button a {
+        font-size: 25px;
+    }
+
+    .evidence-container-shit p {
+        font-size: 15px;
+    }
+
+    .icon-location-header {
+        margin-left: 400px;
+    }
+
+    #mail-link-footer {
+        margin-left: 150px;
+    }
+
+    #instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
+        margin-left: 10px;
+    }
+}
+
+/*MAX WITH 850PX*/
+@media (max-width: 850px) {
+    .main-text-index {
+        width: 600px;
+    }
+    
+    .main-text-index p {
+        font-size: 25px;
+    }
+    
+    #about-button {
+        margin-left: 80px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 30px;
+    } 
+
+    .about-container p {
+        font-size: 15px;
+    }
+
+    .all-post-page-title-shit p {
+        font-size: 15px;
+      }
+      
+    .send-evidence-button {
+        margin-left: 170px;
+    }
+      
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 450px;
+        margin-left: 180px;
+    }
+      
+    .post-button {
+        margin-left: 150px;
+    }
+
+    .button-thing {
+        margin-left: 230px;
+    }
+
+    .icon-location-header {
+        margin-left: 350px;
+    }
+}
+
+/*MAX WITH 800PX*/
+@media (max-width: 800px) {
+    .icon-location-header {
+        margin-left: 300px;
+    }
+
+    .ad-content {
+        width: 550px;
+        height: 250px;
+    }
+  
+    .ad-content h2 {
+        font-size: 25px;
+    }
+}
+
+/*MAX WITH 750PX*/
+@media (max-width: 750px) {
+    .main-text-index {
+        width: 500px;
+    }
+    
+    #about-button {
+        margin-left: 50px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 20px;
+    } 
+
+    .about-container h2 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .send-evidence-button {
+        margin-left: 160px;
+        width: 150px;
+    }
+  
+    .send-evidence-button a {
+        font-size: 20px;
+    }
+  
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 400px;
+        margin-left: 160px;
+    }
+  
+    .post-button {
+        margin-left: 120px;
+    }
+
+    .send-evidence-button-contact {
+        margin-left: 80px;
+    }
+
+    .button-thing {
+        width: 150px;
+        height: 45px;
+    }
+      
+    .button-thing a {
+        font-size: 20px;
+    }
+
+    .icon-location-header {
+        margin-left: 250px;
+    }
+}
+
+/*MAX WITH 700PX*/
+@media (max-width: 700px) {
+    .icon-location-header {
+        margin-left: 230px;
+    }
+
+    #mail-link-footer {
+        margin-left: 50px;
+    }
+}
+
+/*MAX WITH 680PX*/
+@media (max-width: 680px) {
+    .buttons-index-container {
+        flex-direction: column;
+    }
+    
+    #about-button, #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 200px;
+    }
+    
+    #evidence-button, #all-posts-button, #contact-button {
+        margin-top: -150px;
+    }
+    
+    .main-text-index {
+        width: 450px;
+    }
+    
+    .index-button {
+        width: 250px;
+    }
+
+    .about-container h1 {
+        font-size: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .about-container h2 {
+        font-size: 18px;
+    }
+
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 350px;
+        margin-left: 140px;
+    }
+  
+    .post-button {
+        margin-left: 120px;
+        width: 100px;
+    }
+  
+    .post-button a, .send-evidence-button a {
+        font-size: 15px;
+    } 
+  
+    .send-evidence-button {
+        margin-left: 140px;
+        width: 120px;
+    }
+  
+    .all-post-page-title-shit h1 {
+        font-size: 20px;
+    }
+  
+    .hero-text h1 {
+        font-size: 18px;
+    }
+
+    .flex-container-for-contact {
+        flex-direction: column;
+    }
+      
+    .container-one-contact {
+        height: 630px;
+        margin-left: 200px;
+    }
+      
+    .container-two-contact {
+        margin-left: 200px;
+        margin-top: 0px;
+        margin-bottom: 50px;
+    }
+
+    .button-thing {
+        margin-left: 180px;
+    }
+      
+    .evidence-container-shit h1 {
+        font-size: 20px;
+    }
+
+    .icon-location-header {
+        margin-left: 180px;
+    }
+}
+
+/*MAX WITH 630PX*/
+@media (max-width: 630px) {
+    .container-one-contact {
+        height: 680px;
+    }
+
+    .button-thing {
+        margin-left: 160px;
+    }
+
+    .icon-location-header {
+        margin-left: 140px;
+    }
+}
+
+/*MAX WITH 600PX*/
+@media (max-width: 600px) {
+    .main-text-index {
+        width: 400px;
+        margin-left: 80px;
+    }
+    
+    .main-text-index p {
+        font-size: 20px;
+    } 
+    
+    #about-button, #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 170px;
+    }
+
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 300px;
+        margin-left: 130px;
+    }
+  
+    .post-button {
+        margin-left: 90px;
+    }
+  
+    .send-evidence-button {
+        margin-left: 120px;
+    }
+
+    .container-one-contact {
+        height: 700px;
+    }
+      
+    .send-evidence-button-contact {
+        margin-left: 50px;
+    }
+
+    .button-thing {
+        margin-top: 20px;
+        margin-left: 140px;
+    }
+
+    #instagram-link-footer img, #facebook-link-footer img, #twitter-link-footer img, #linkedin-link-footer img, #twitch-link-footer img, #spotify-link-footer img, #youtube-link-footer img, #goodreads-link-footer img {
+        margin-left: 5px;
+    }
+
+    #mail-link-footer {
+        margin-left: 20px;
+    }
+}
+
+/*MAX WITH 580PX*/
+ @media (max-width: 580px) {
+    .container-one-contact {
+        height: 730px;
+    }
+}
+
+/*MAX WITH 550PX*/
+@media (max-width: 550px) {
+    .main-text-index {
+        width: 350px;
+    }
+    
+    #about-button, #evidence-button, #all-posts-button, #contact-button {
+        margin-left: 150px;
+    }
+
+    .hero-image-post-one, .hero-image-post-two, .hero-image-post-three, .hero-image-post-four, .hero-image-post-five, .hero-image-post-six, .hero-image-post-seven, .hero-image-post-eight, .hero-image-post-nine, .hero-image-post-teen, .hero-image-post-elleven, .hero-image-post-twelve, .hero-image-post-thirteen, .hero-image-post-fourteen, .hero-image-post-fifteen, .hero-image-post-sixteen, .hero-image-post-seventeen, .hero-image-post-eighteen, .hero-image-post-ninteen, .hero-image-post-twenty, .hero-image-post-twenty-one, .hero-image-post-twenty-two, .hero-image-post-twenty-three, .hero-image-post-twenty-four, .hero-image-post-twenty-five, .hero-image-post-twenty-six, .hero-image-post-twenty-seven, .hero-image-post-twenty-eight, .hero-image-post-twenty-nine, .hero-image-post-thirty {
+        width: 250px;
+    }
+  
+    .post-button {
+        margin-left: 70px;
+    }
+  
+    .send-evidence-button {
+        margin-left: 100px;
+    }
+
+    .container-one-contact {
+        height: 750px;
+     }
+      
+    .container-two-contact h1 {
+        font-size: 18px;
+    }
+
+    .button-thing {
+        margin-left: 120px;
+        margin-top: 10px;
+    }
+}
